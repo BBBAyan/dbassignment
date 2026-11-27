@@ -1,0 +1,3 @@
+Video URL: NOT YET RECORDED — upload a <=10-minute walkthrough to Google Drive, set viewer access, paste URL here.
+Application URL: NOT YET DEPLOYED — deploy with persistent PostgreSQL and paste public URL here.
+Demo credentials: None (authentication not required by assignment).

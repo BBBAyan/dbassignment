@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<h2>Accepted paper schedule</h2><div style="overflow-x:auto"><table><thead><tr>{% for col in columns %}<th>{{col}}</th>{% endfor %}</tr></thead><tbody>{% for row in rows %}<tr>{% for val in row %}<td>{{val}}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>{% endblock %}
